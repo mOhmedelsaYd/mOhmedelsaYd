@@ -18,6 +18,10 @@
 - ☕ Fun Fact: I'm a coffee enthusiast, and my perfect day starts and ends with a great cup of coffee..
 
 
+### Connect with Me :
+
+<a href="https://linkedin.com/in/moelsayd3963/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Elsaid-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://t.me/mOhmedelsaYd" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Elsaid-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a></br> </br>
 
 ### 🛠 &nbsp;Backend Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -33,10 +37,6 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)&nbsp;
 
 
-### Connect with Me :
-
-<a href="https://linkedin.com/in/moelsayd3963/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Elsaid-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/mOhmedelsaYd" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Elsaid-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a></br>
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=mOhmedelsaYd&show_icons=true&theme=gruvbox"/>
