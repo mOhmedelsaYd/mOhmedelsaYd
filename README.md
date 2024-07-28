@@ -18,9 +18,7 @@
 - ☕ Fun Fact: I'm a coffee enthusiast, and my perfect day starts and ends with a great cup of coffee..
 
 
-
-
-
+<br>
 ### 🛠 &nbsp;Backend Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
