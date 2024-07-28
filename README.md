@@ -9,6 +9,7 @@
 
 ### About Me:
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<div class="tenor-gif-embed" data-postid="1778677542567010719" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/glitch-crypto-tech-computer-technology-gif-1778677542567010719">Glitch Crypto Sticker</a>from <a href="https://tenor.com/search/glitch-stickers">Glitch Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 - 🎯 I'm a back end developer with a passion for building robust, secure, and scalable systems.
 
