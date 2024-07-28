@@ -1,4 +1,3 @@
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 # Hi, I'm Mohamed! 👋
 
 <p align="center">
@@ -6,6 +5,7 @@
 </p> 
 
 ## 🚀 About Me
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 - 🎯 I'm a back end developer with a passion for building robust, secure, and scalable systems.
 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
