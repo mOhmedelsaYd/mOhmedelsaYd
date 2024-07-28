@@ -1,6 +1,7 @@
 <h3 align="center">
   Hi there, I'm Mohamed!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> -->
+  <div class="tenor-gif-embed" data-postid="1778677542567010719" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/glitch-crypto-tech-computer-technology-gif-1778677542567010719">Glitch Crypto Sticker</a>from <a href="https://tenor.com/search/glitch-stickers">Glitch Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </h3>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=808080&vCenter=true&size=22"></a>
