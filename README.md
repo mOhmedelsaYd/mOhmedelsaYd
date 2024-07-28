@@ -32,7 +32,13 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)&nbsp;
+
+
+### Connect with Me :
+
+<a href="https://linkedin.com/in/moelsayd3963/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Elsaid-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://t.me/mOhmedelsaYd" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Elsaid-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=mOhmedelsaYd&show_icons=true&theme=gruvbox"/>
