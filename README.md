@@ -35,6 +35,6 @@
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=boghdady&show_icons=true&theme=gruvbox"/>
-<img align="left" width="47%" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=mOhmedelsaYd&show_icons=true&theme=gruvbox"/>
+<img align="left" width="47%" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mOhmedelsaYd&layout=compact"/>
 
