@@ -7,7 +7,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=808080&vCenter=true&size=22"></a>
 </p> 
 
-# About Me:
+## About Me:
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 - 🎯 I'm a back end developer with a passion for building robust, secure, and scalable systems.
@@ -19,12 +19,12 @@
 - ☕ Fun Fact: I'm a coffee enthusiast, and my perfect day starts and ends with a great cup of coffee..  </br></br></br>
 
 
-### Connect with Me :
+## Connect with Me :
 
 <a href="https://linkedin.com/in/moelsayd3963/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Elsaid-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/mOhmedelsaYd" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Elsaid-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a></br> </br>
 
-### 🛠 &nbsp;Backend Tech Stack
+## 🛠 &nbsp;Backend Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
