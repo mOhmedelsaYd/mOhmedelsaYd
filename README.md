@@ -1,13 +1,13 @@
-<h3 align="center">
+<h1 align="center">
   Hi there, I'm Mohamed!
   <img src="https://media.tenor.com/GK8hzRar4Z8AAAAi/glitch-crypto.gif" width="28"> 
-</h3>
+</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=808080&vCenter=true&size=22"></a>
 </p> 
 
-### About Me:
+# About Me:
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 - 🎯 I'm a back end developer with a passion for building robust, secure, and scalable systems.
