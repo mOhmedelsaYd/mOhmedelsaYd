@@ -1,6 +1,6 @@
 <h3 align="center">
   Hi there, I'm Mohamed!
-  <img src="http://tenor.com/view/glitch-crypto-tech-computer-technology-gif-1778677542567010719" width="28"> 
+  <img src="https://media.tenor.com/GK8hzRar4Z8AAAAi/glitch-crypto.gif" width="28"> 
 </h3>
 
 <p align="center">
